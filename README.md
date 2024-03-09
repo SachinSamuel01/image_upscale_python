@@ -70,7 +70,7 @@ Reduced the image size to by 1/8 then upscaled with a scale of 8X
 
 ### Performance at Different Scaling Factors
 Table 1: Summary of Evaluation Metrics
-<iframe src='https://sheetsu.com/tables/ae587e266c' allowfullscreen height='612' width='100%' frameBorder='0'></iframe>
+![Screenshot 2024-03-10 013442](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/8b80cad5-8dac-4a84-b0b6-415fc76a5b2e)
 
 Here are the plots for the PSNR, MSE, SSIM, and Time comparisons for all models at different scale values (x2, x3, x4, and x8). Each scale value is represented by a different color: red for x2, green for x3, pink for x4, and blue for x8.
 ![Screenshot 2024-03-09 023841](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/b0572114-82a4-4902-85bc-8fddd0873fcc)
