@@ -57,16 +57,16 @@ Our evaluation of the image upscaling algorithms (EDSR, ESPCN, FSRCNN, LAPSRN) a
 
 ### Outputs
 Reduced the image size to by 1/2 then upscaled with a scale of 2X
-![X2](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/06ea6f61-ad79-4c88-921a-8aa8dc04f38b)
+![X2](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/20136e8e-dbaa-4b0e-b10c-57babba16e4f)
 
 Reduced the image size to by 1/3 then upscaled with a scale of 3X
-![X3](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/320f70a4-a3fb-4238-a71b-879a009c2295)
+![X3](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/9dd38eb7-d76a-4569-a589-b321e5b3d38c)
 
 Reduced the image size to by 1/4 then upscaled with a scale of 4X
-![X4](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/9fcb5e8b-efe6-496e-a436-47d74c1516de)
+![X4](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/d8b63e58-0032-4915-92af-05c36f438145)
 
 Reduced the image size to by 1/8 then upscaled with a scale of 8X
-![X8](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/50dda1b2-d640-499e-b8c5-891f299c43f5)
+![X8](https://github.com/SachinSamuel01/image_upscale_python/assets/121634881/718ae3e9-0fb3-4e03-af15-2cb3c59c9bad)
 
 ### Performance at Different Scaling Factors
 Table 1: Summary of Evaluation Metrics
